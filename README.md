@@ -23,4 +23,4 @@ A Junior Systems & Biomedical Engineering Student who enjoys developing software
 
 
 
-![](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf)# Mostafa-Mohamed-Essam
+
