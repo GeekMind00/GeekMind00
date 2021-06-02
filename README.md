@@ -3,7 +3,7 @@ A Junior Systems & Biomedical Engineering Student who enjoys developing software
 ## 📝 Resume 
 
 <a href="https://drive.google.com/file/d/1e7xjbj2YeAki1u5Y64-Bc0wB4NSuEUvf/view?usp=sharing" type="application/pdf">
-  <img src="https://i.imgur.com/rBXtrH7.png?" alt="Mostafa Mohamed Essam | Resume">
+  <img src="https://i.imgur.com/rBXtrH7.png?1" alt="Mostafa Mohamed Essam | Resume">
 </a>
 
 ## 🛠 Languages & Technologies
