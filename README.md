@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hey <img src="https://github.com/GeekMind00/GeekMind00/blob/master/wave.gif" width="40px">, I'm [Mostafa!](https://www.linkedin.com/in/mostafamessam/) 
+# Hey <img src="https://github.com/GeekMind00/GeekMind00/blob/main/wave.gif" width="40px">, I'm [Mostafa!](https://www.linkedin.com/in/mostafamessam/) 
 
 <br/>
 
@@ -30,7 +30,7 @@
   <img align="left" alt="Mostafa's leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" draggable="false" />
 </a>
 <a href="https://codeforces.com/profile/GeekMind2000">
-  <img align="left" alt="Mostafa's codeforces" width="40px" src="https://github.com/GeekMind00/GeekMind00/blob/master/codeforces.png" draggable="false" />
+  <img align="left" alt="Mostafa's codeforces" width="40px" src="https://github.com/GeekMind00/GeekMind00/blob/main/codeforces.png" draggable="false" />
 </a>
 <a href="mailto:mostafa.m.essam00@gmail.com">
   <img align="left" alt="Mostafa's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
