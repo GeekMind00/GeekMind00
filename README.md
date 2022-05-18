@@ -97,7 +97,7 @@
 
 
 <div align="center">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GeekMind00&show_icons=true&theme=radical)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekMind00&count_private=true&show_icons=true&theme=radical)
   
 </div>
